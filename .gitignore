@@ -3,4 +3,4 @@ package-lock.json
 .idea
 config/database/test.json
 coverage
-.pem
+auth-api-app-server.pem
